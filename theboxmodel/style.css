@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.cutie{
+
+    border: 2px solid red;
+
+}
+
+.cutie1{
+    margin: 50px 130px;
+    width: 1200px;
+    height: 600px;
+    padding: 40px 50px;
+}
+
+.cutie2{
+ 
+    width: 1100px;
+    height: 500px;
+    padding: 40px 50px;
+}
+
+.cutie3{
+   
+    width: 1000px;
+    height: 400px;
+    padding: 40px 50px;
+}
+
+.cutie4{
+   
+    width: 900px;
+    height: 300px;
+}
