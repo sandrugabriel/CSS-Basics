@@ -1,0 +1,76 @@
+/* *{
+color: blue;
+} */
+
+
+
+
+/* header{
+    color: chartreuse;
+}
+
+
+#top{
+    color: brown;
+}  */
+
+/*
+.main-header{
+ color: yellow;
+}
+
+
+
+.test{
+
+    color: blue;
+}*/
+
+header h1{
+    color:red;
+}
+
+span,h1{
+    color: blue;
+}
+
+div > h3{
+    color: cyan;
+}
+
+h2+p{
+    color: chartreuse;
+}
+
+input[type]{
+    color: violet;
+}
+
+input[type=text]{
+color:darkgoldenrod;
+}
+
+[class^=main]{
+    background-color: darkgreen;
+}
+
+[class$=test]{
+    color: white;
+}
+
+a:visited{
+    color: red;
+}
+
+a:active{
+    color:brown;
+}
+
+a:focus{
+    color: aqua;
+}
+
+a:hover{
+    color:cadetblue;
+}
+
