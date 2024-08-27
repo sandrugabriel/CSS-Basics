@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+
+    border: 2px solid blue;
+}
+
+
+body{
+
+    width: 100vw;
+    height: 100vh;
+}
+
+.cutie{
+    border: 2px solid red;
+    width: 50%;
+    height:10%;
+}
+
+
+.cutie1{
+    border:  solid red;
+    width: 10%;
+    height: 10%;
+}

@@ -34,3 +34,14 @@
     width: 900px;
     height: 300px;
 }
+
+
+
+.exemplu{
+
+     border: 2px solid red;
+     width: 200px ;
+     height: 200px;
+
+     margin: auto;
+}
