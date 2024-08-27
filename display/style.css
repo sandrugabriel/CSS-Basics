@@ -1,0 +1,29 @@
+
+
+
+.container{
+
+     border: 2px solid red;
+
+     width: 500px;
+     height: 500px;
+}
+
+.cutie{
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+    display: inline;
+    margin: auto;
+}
+
+
+.ex{
+
+
+   
+    width: 100px;
+    height: 100px;
+    margin:20px;
+
+}
